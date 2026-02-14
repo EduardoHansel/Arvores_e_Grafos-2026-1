@@ -3,4 +3,4 @@ project(atividade_semana2 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(atividade_semana2 main.c)
+add_executable(main main.c)
