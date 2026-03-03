@@ -10,3 +10,5 @@ add_executable(s3_insertionSort atividade_s3/insertionSort.c)
 add_executable(s3_mergeSort atividade_s3/mergeSort.c)
 add_executable(s3_quickSort atividade_s3/quickSort.c)
 add_executable(s3_selectionSort atividade_s3/selectionSort.c)
+
+add_executable(s4_maxHeap atividade_s4/max_heap.c)
