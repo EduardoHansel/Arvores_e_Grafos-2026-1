@@ -20,7 +20,6 @@ void pesquisaBinariaIterativa(int arr[], int esq, int dir, int alvo) {
 }
 
 void pesquisaBinariaRecursiva(int arr[], int esq, int dir, int alvo) {
-    // eu n sabia fazer isso aqui n, quem fez foi o Cláudio
     if (esq > dir) {
         printf("Alvo %d não encontrado\n", alvo);
         return;
